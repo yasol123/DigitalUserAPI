@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y3pRSYEayJlZhh55ynBGbuajHIWPmoNtqyOHA8924u93AvUKcHncMnItlUOOF7Fgjmi18OgH/Ah5VjCoMCjOEQ==",
+  "dgSpecHash": "fZbYDoskdrc0BbV8KKF7XLRy4OD64ivQkhjngfK+DYwwdB7+za0DcWckLkfqU9hiZRdr5Wms47mvB4VUCWl9uQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Common\\Yasol.DigitalUser.Common.csproj",
+  "projectFilePath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Common\\Yasol.UserAccountManagement.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\16462\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.32\\microsoft.aspnetcore.authentication.jwtbearer.3.1.32.nupkg.sha512",
     "C:\\Users\\16462\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
