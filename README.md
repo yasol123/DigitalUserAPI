@@ -1,4 +1,4 @@
-# UserAccountManagementAPI
+# DigitalUserAPI
 
 This user account management api is a part of microservices APIs.
 
