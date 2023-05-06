@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+AHYnG/OKN3eqa9Vu/cUrZ+5iiffn7VaEWpbcP1KeREgy3wED7Zo7100xVtw4rdngD+IFAxFGbEppEr9ZSf0Aw==",
+  "dgSpecHash": "yDP3/n4EsfBpt9Ak8TYpLXKC8Gu6nq3eyIWygstdeCNEeJiI+m+uxC3vpRnt5lodP6vH5RFaHsa54EgmeSUnGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\DigitalUserAPI\\Yasol.DigitalUser.API.csproj",
+  "projectFilePath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\DigitalUserAPI\\Yasol.UserAccountManagement.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\16462\\.nuget\\packages\\microsoft.applicationinsights\\2.21.0\\microsoft.applicationinsights.2.21.0.nupkg.sha512",
     "C:\\Users\\16462\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.32\\microsoft.aspnetcore.authentication.jwtbearer.3.1.32.nupkg.sha512",
