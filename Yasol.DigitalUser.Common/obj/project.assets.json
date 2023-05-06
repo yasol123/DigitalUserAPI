@@ -827,14 +827,14 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
-      "Yasol.DigitalUser.Model/1.0.0": {
+      "Yasol.UserAccountManagement.Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Yasol.DigitalUser.Model.dll": {}
+          "bin/placeholder/Yasol.UserAccountManagement.Model.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Yasol.DigitalUser.Model.dll": {}
+          "bin/placeholder/Yasol.UserAccountManagement.Model.dll": {}
         }
       }
     }
@@ -3680,17 +3680,17 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
-    "Yasol.DigitalUser.Model/1.0.0": {
+    "Yasol.UserAccountManagement.Model/1.0.0": {
       "type": "project",
-      "path": "../Yasol.DigitalUser.Model/Yasol.DigitalUser.Model.csproj",
-      "msbuildProject": "../Yasol.DigitalUser.Model/Yasol.DigitalUser.Model.csproj"
+      "path": "../Yasol.DigitalUser.Model/Yasol.UserAccountManagement.Model.csproj",
+      "msbuildProject": "../Yasol.DigitalUser.Model/Yasol.UserAccountManagement.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 3.1.32",
       "Microsoft.IdentityModel.Tokens >= 6.30.0",
-      "Yasol.DigitalUser.Model >= 1.0.0"
+      "Yasol.UserAccountManagement.Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3700,9 +3700,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Common\\Yasol.DigitalUser.Common.csproj",
-      "projectName": "Yasol.DigitalUser.Common",
-      "projectPath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Common\\Yasol.DigitalUser.Common.csproj",
+      "projectUniqueName": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Common\\Yasol.UserAccountManagement.Common.csproj",
+      "projectName": "Yasol.UserAccountManagement.Common",
+      "projectPath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Common\\Yasol.UserAccountManagement.Common.csproj",
       "packagesPath": "C:\\Users\\16462\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Common\\obj\\",
       "projectStyle": "PackageReference",
@@ -3724,8 +3724,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Model\\Yasol.DigitalUser.Model.csproj": {
-              "projectPath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Model\\Yasol.DigitalUser.Model.csproj"
+            "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Model\\Yasol.UserAccountManagement.Model.csproj": {
+              "projectPath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Model\\Yasol.UserAccountManagement.Model.csproj"
             }
           }
         }

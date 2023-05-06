@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Yasol.DigitalUser.Common\Yasol.DigitalUser.Common.csproj" />
+    <ProjectReference Include="..\Yasol.DigitalUser.Common\Yasol.UserAccountManagement.Common.csproj" />
   </ItemGroup>
 
 
