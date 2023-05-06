@@ -1,0 +1,13 @@
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\bin\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.exe
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\bin\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.deps.json
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\bin\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.runtimeconfig.json
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\bin\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.runtimeconfig.dev.json
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\bin\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.dll
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\bin\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.pdb
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\obj\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.csprojAssemblyReference.cache
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\obj\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.AssemblyInfoInputs.cache
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\obj\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.AssemblyInfo.cs
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\obj\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.csproj.CoreCompileInputs.cache
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\obj\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.dll
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\obj\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.pdb
+C:\Users\16462\source\repos\DigitalUserAPI\Yasol.DigitalUser.Model\obj\Debug\netcoreapp3.1\Yasol.DigitalUser.Model.genruntimeconfig.cache
