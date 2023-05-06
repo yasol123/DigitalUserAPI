@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Yasol.DigitalUser.Model\Yasol.DigitalUser.Model.csproj" />
+    <ProjectReference Include="..\Yasol.DigitalUser.Model\Yasol.UserAccountManagement.Model.csproj" />
   </ItemGroup>
 
 </Project>

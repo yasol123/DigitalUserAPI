@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Business\\Yasol.DigitalUser.Business.csproj",
-      "projectName": "Yasol.DigitalUser.Business",
-      "projectPath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Business\\Yasol.DigitalUser.Business.csproj",
+      "projectUniqueName": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Business\\Yasol.UserAccountManagement.Business.csproj",
+      "projectName": "Yasol.UserAccountManagement.Business",
+      "projectPath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Business\\Yasol.UserAccountManagement.Business.csproj",
       "packagesPath": "C:\\Users\\16462\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Business\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fo8PFDhJqZzLI+opkFn67u3UjE+/c40Mf1hGCFKti0RATt7V3ZbzN96LM6cbOjHdNRW6gyiwTwlyv60W3akk3g==",
+  "dgSpecHash": "6VZhi9MaOWyhycFCGQt6FW19HqGa9c2Y7f/Tf2BHU9wYGqhETOLnB8a/ShNYS6kWDfIef2aYJUefqpDY+L9Cmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Model\\Yasol.DigitalUser.Model.csproj",
+  "projectFilePath": "C:\\Users\\16462\\source\\repos\\DigitalUserAPI\\Yasol.DigitalUser.Model\\Yasol.UserAccountManagement.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
